@@ -2,7 +2,13 @@
  * Site Header
  */
 .site-header {
-  
+   position: relative;
+  background-color: black;
+  height: 75vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
 
 .site-header-bg {
   background-position: center;
